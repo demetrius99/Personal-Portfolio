@@ -17,11 +17,6 @@ h2 {
 	font-size: 16px
 	margin-top: 0;
 }
-.bio {
-	color: black;
-	font-size: 14px;
-	font-weight: bold;
-}
 .me {
 	height: 150px;
 	border-radius: 100%;
@@ -31,7 +26,7 @@ h2 {
 
 }
 .about {
-	width: 400px;
+	width: 470px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
